@@ -1,6 +1,6 @@
 # Datascience
 
-Data Analytics and Visualization.
+Data Analysis and Visualization.
 
 A project about analysis and visualization of **sales data** (**sales_analysis.ipynb** - you can find the dataset used in the "dados" folder).
 
